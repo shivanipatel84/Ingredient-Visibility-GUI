@@ -28,13 +28,13 @@ img{
   padding-left: 35px;
   top: 100px;
   margin-bottom: 12px;
-  cursor: pointer;
+  cursor: grab;
   font-size: 22px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  font-family: "Arial",sans-serif;
+  font-family: "Garamound",sans-serif;
   font-size: 23px;
   letter-spacing: 2.5px;
   color: white;
